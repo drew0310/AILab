@@ -1,4 +1,4 @@
-from _8queensutil import *
+from robotutil import *
 
 
 class Graph:
